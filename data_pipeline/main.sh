@@ -1,0 +1,1 @@
+$SPARK_HOME/bin/spark-submit --packages org.mongodb.spark:mongo-spark-connector:10.0.4 amz_query.py
